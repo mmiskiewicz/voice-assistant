@@ -33,7 +33,7 @@ Your personal voice assistant.
 
 ## Usage
 
-`cd` into the project folder, type `python speech_assistant.py` in your terminal and run your local server.
+`cd` into the project folder and type `python speech_assistant.py` in your terminal in order to run your virtual assistant.
 
 
 ## Demo
